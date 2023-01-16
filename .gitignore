@@ -1,0 +1,220 @@
+/.idea/*
+
+/advertising_and_sales_clean.csv
+/temp.ipynb
+/andrew notebooks/Files_w2/images/C1_W2_L1_S1_Lecture_b.png
+/andrew notebooks/Files_w2/images/C1_W2_L1_S1_model.png
+/andrew notebooks/Files_w2/images/C1_W2_L1_S1_trainingdata.png
+/andrew notebooks/Files_w2/images/C1_W2_L1_S2_Lectureb.png
+/andrew notebooks/Files_w2/images/C1_W2_L2_S1_Lecture_GD.png
+/andrew notebooks/Files_w2/.ipynb_checkpoints/C1_W2_Lab01_Model_Representation-checkpoint.ipynb
+/andrew notebooks/Files_w2/C1_W2_Lab01_Python_Numpy_Vectorization_Soln.ipynb
+/andrew notebooks/Files_w2/.ipynb_checkpoints/C1_W2_Lab01_Python_Numpy_Vectorization_Soln-checkpoint.ipynb
+/andrew notebooks/Files_w2/.ipynb_checkpoints/C1_W2_Lab02_Cost_function-checkpoint.ipynb
+/andrew notebooks/Files_w2/images/C1_W2_Lab02_GoalOfRegression.PNG
+/andrew notebooks/Files_w2/C1_W2_Lab02_Multiple_Variable_Soln.ipynb
+/andrew notebooks/Files_w2/.ipynb_checkpoints/C1_W2_Lab02_Multiple_Variable_Soln-checkpoint.ipynb
+/andrew notebooks/Files_w2/images/C1_W2_Lab03_alpha_to_big.PNG
+/andrew notebooks/Files_w2/C1_W2_Lab03_Feature_Scaling_and_Learning_Rate_Soln.ipynb
+/andrew notebooks/Files_w2/.ipynb_checkpoints/C1_W2_Lab03_Feature_Scaling_and_Learning_Rate_Soln-checkpoint.ipynb
+/andrew notebooks/Files_w2/.ipynb_checkpoints/C1_W2_Lab03_Gradient_descent-checkpoint.ipynb
+/andrew notebooks/Files_w2/images/C1_W2_Lab03_lecture_learningrate.PNG
+/andrew notebooks/Files_w2/images/C1_W2_Lab03_lecture_slopes.PNG
+/andrew notebooks/Files_w2/images/C1_W2_Lab04_dot_notrans.gif
+/andrew notebooks/Files_w2/C1_W2_Lab04_FeatEng_PolyReg_Soln.ipynb
+/andrew notebooks/Files_w2/.ipynb_checkpoints/C1_W2_Lab04_FeatEng_PolyReg_Soln-checkpoint.ipynb
+/andrew notebooks/Files_w2/images/C1_W2_Lab04_Figures And animations.pptx
+/andrew notebooks/Files_w2/images/C1_W2_Lab04_Matrices.PNG
+/andrew notebooks/Files_w2/.ipynb_checkpoints/C1_W2_Lab04_Multiple_Variable_Representation-checkpoint.ipynb
+/andrew notebooks/Files_w2/images/C1_W2_Lab04_Vectors.PNG
+/andrew notebooks/Files_w2/.ipynb_checkpoints/C1_W2_Lab05_Multiple_Variable_Cost-checkpoint.ipynb
+/andrew notebooks/Files_w2/C1_W2_Lab05_Sklearn_GD_Soln.ipynb
+/andrew notebooks/Files_w2/.ipynb_checkpoints/C1_W2_Lab05_Sklearn_GD_Soln-checkpoint.ipynb
+/andrew notebooks/Files_w2/images/C1_W2_Lab06_contours.PNG
+/andrew notebooks/Files_w2/images/C1_W2_Lab06_featurescalingheader.PNG
+/andrew notebooks/Files_w2/images/C1_W2_Lab06_learningrate.PNG
+/andrew notebooks/Files_w2/images/C1_W2_Lab06_LongRun.PNG
+/andrew notebooks/Files_w2/.ipynb_checkpoints/C1_W2_Lab06_Multiple_Variable_Gradient_Descent-checkpoint.ipynb
+/andrew notebooks/Files_w2/images/C1_W2_Lab06_scale.PNG
+/andrew notebooks/Files_w2/images/C1_W2_Lab06_ShortRun.PNG
+/andrew notebooks/Files_w2/C1_W2_Lab06_Sklearn_Normal_Soln.ipynb
+/andrew notebooks/Files_w2/.ipynb_checkpoints/C1_W2_Lab06_Sklearn_Normal_Soln-checkpoint.ipynb
+/andrew notebooks/Files_w2/images/C1_W2_Lab07_FeatureEngLecture.PNG
+/andrew notebooks/Files_w2/.ipynb_checkpoints/C1_W2_Lab07_Normal_Equations-checkpoint.ipynb
+/andrew notebooks/Files_w2/.ipynb_checkpoints/C1_W2_Lab08_Sklearn-checkpoint.ipynb
+/andrew notebooks/Files_w2/.ipynb_checkpoints/C1_W2_Lab09_Multiple_Variable_Gradient_Descent_Soln-checkpoint.ipynb
+/andrew notebooks/Files_w2/.ipynb_checkpoints/C1_W2_Lab09_Multiple_Variable_Gradient_Descent_user-checkpoint.ipynb
+/andrew notebooks/Files_w2/final project/C1_W2_Linear_Regression.ipynb
+/andrew notebooks/Files_w2/final project/.ipynb_checkpoints/C1_W2_Linear_Regression-checkpoint.ipynb
+/andrew notebooks/Files_w3/images/C1_W3_Classification.png
+/andrew notebooks/Files_w2/C1_W3_Lab01_Classification_Soln.ipynb
+/andrew notebooks/Files_w3/C1_W3_Lab01_Classification_Soln.ipynb
+/andrew notebooks/Files_w2/.ipynb_checkpoints/C1_W3_Lab01_Classification_Soln-checkpoint.ipynb
+/andrew notebooks/Files_w3/.ipynb_checkpoints/C1_W3_Lab01_Classification_Soln-checkpoint.ipynb
+/andrew notebooks/Files_w3/pre_414/C1_W3_Lab01_Sigmoid_function.ipynb
+/andrew notebooks/Files_w2/.ipynb_checkpoints/C1_W3_Lab01_Sigmoid_function_Soln-checkpoint.ipynb
+/andrew notebooks/Files_w3/.ipynb_checkpoints/C1_W3_Lab01_Sigmoid_function_Soln-checkpoint.ipynb
+/andrew notebooks/Files_w2/.ipynb_checkpoints/C1_W3_Lab01_Sigmoid_function_user-checkpoint.ipynb
+/andrew notebooks/Files_w3/.ipynb_checkpoints/C1_W3_Lab01_Sigmoid_function_user-checkpoint.ipynb
+/andrew notebooks/Files_w3/pre_414/C1_W3_Lab02_Decision_Boundary.ipynb
+/andrew notebooks/Files_w2/.ipynb_checkpoints/C1_W3_Lab02_Decision_Boundary-checkpoint.ipynb
+/andrew notebooks/Files_w3/.ipynb_checkpoints/C1_W3_Lab02_Decision_Boundary-checkpoint.ipynb
+/andrew notebooks/Files_w2/.ipynb_checkpoints/C1_W3_Lab02_Decision_Boundary_Soln-checkpoint.ipynb
+/andrew notebooks/Files_w3/.ipynb_checkpoints/C1_W3_Lab02_Decision_Boundary_Soln-checkpoint.ipynb
+/andrew notebooks/Files_w2/.ipynb_checkpoints/C1_W3_Lab02_Decision_Boundary_user-checkpoint.ipynb
+/andrew notebooks/Files_w3/.ipynb_checkpoints/C1_W3_Lab02_Decision_Boundary_user-checkpoint.ipynb
+/andrew notebooks/Files_w2/C1_W3_Lab02_Sigmoid_function_Soln.ipynb
+/andrew notebooks/Files_w3/C1_W3_Lab02_Sigmoid_function_Soln.ipynb
+/andrew notebooks/Files_w2/.ipynb_checkpoints/C1_W3_Lab02_Sigmoid_function_Soln-checkpoint.ipynb
+/andrew notebooks/Files_w3/.ipynb_checkpoints/C1_W3_Lab02_Sigmoid_function_Soln-checkpoint.ipynb
+/andrew notebooks/Files_w3/pre_414/C1_W3_Lab03_Cost_Function.ipynb
+/andrew notebooks/Files_w2/.ipynb_checkpoints/C1_W3_Lab03_Cost_Function-checkpoint.ipynb
+/andrew notebooks/Files_w3/.ipynb_checkpoints/C1_W3_Lab03_Cost_Function-checkpoint.ipynb
+/andrew notebooks/Files_w2/.ipynb_checkpoints/C1_W3_Lab03_Cost_Function_Soln-checkpoint.ipynb
+/andrew notebooks/Files_w3/.ipynb_checkpoints/C1_W3_Lab03_Cost_Function_Soln-checkpoint.ipynb
+/andrew notebooks/Files_w2/.ipynb_checkpoints/C1_W3_Lab03_Cost_Function_user-checkpoint.ipynb
+/andrew notebooks/Files_w3/.ipynb_checkpoints/C1_W3_Lab03_Cost_Function_user-checkpoint.ipynb
+/andrew notebooks/Files_w3/C1_W3_Lab03_Decision_Boundary_Soln.ipynb
+/andrew notebooks/Files_w2/.ipynb_checkpoints/C1_W3_Lab03_Decision_Boundary_Soln-checkpoint.ipynb
+/andrew notebooks/Files_w3/.ipynb_checkpoints/C1_W3_Lab03_Decision_Boundary_Soln-checkpoint.ipynb
+/andrew notebooks/Files_w3/pre_414/C1_W3_Lab04_Gradient_Descent.ipynb
+/andrew notebooks/Files_w2/.ipynb_checkpoints/C1_W3_Lab04_Gradient_Descent-checkpoint.ipynb
+/andrew notebooks/Files_w3/.ipynb_checkpoints/C1_W3_Lab04_Gradient_Descent-checkpoint.ipynb
+/andrew notebooks/Files_w2/.ipynb_checkpoints/C1_W3_Lab04_Gradient_Descent_Soln-checkpoint.ipynb
+/andrew notebooks/Files_w3/.ipynb_checkpoints/C1_W3_Lab04_Gradient_Descent_Soln-checkpoint.ipynb
+/andrew notebooks/Files_w2/.ipynb_checkpoints/C1_W3_Lab04_Gradient_Descent_user-checkpoint.ipynb
+/andrew notebooks/Files_w3/.ipynb_checkpoints/C1_W3_Lab04_Gradient_Descent_user-checkpoint.ipynb
+/andrew notebooks/Files_w2/C1_W3_Lab04_LogisticLoss_Soln.ipynb
+/andrew notebooks/Files_w3/C1_W3_Lab04_LogisticLoss_Soln.ipynb
+/andrew notebooks/Files_w2/.ipynb_checkpoints/C1_W3_Lab04_LogisticLoss_Soln-checkpoint.ipynb
+/andrew notebooks/Files_w3/.ipynb_checkpoints/C1_W3_Lab04_LogisticLoss_Soln-checkpoint.ipynb
+/andrew notebooks/Files_w2/C1_W3_Lab05_Cost_Function_Soln.ipynb
+/andrew notebooks/Files_w3/C1_W3_Lab05_Cost_Function_Soln.ipynb
+/andrew notebooks/Files_w2/.ipynb_checkpoints/C1_W3_Lab05_Cost_Function_Soln-checkpoint.ipynb
+/andrew notebooks/Files_w3/.ipynb_checkpoints/C1_W3_Lab05_Cost_Function_Soln-checkpoint.ipynb
+/andrew notebooks/Files_w2/archive/C1_W3_Lab05_Cost_Function_Soln-Copy1.ipynb
+/andrew notebooks/Files_w3/archive/C1_W3_Lab05_Cost_Function_Soln-Copy1.ipynb
+/andrew notebooks/Files_w2/archive/.ipynb_checkpoints/C1_W3_Lab05_Cost_Function_Soln-Copy1-checkpoint.ipynb
+/andrew notebooks/Files_w3/archive/.ipynb_checkpoints/C1_W3_Lab05_Cost_Function_Soln-Copy1-checkpoint.ipynb
+/andrew notebooks/Files_w2/archive/C1_W3_Lab05_Cost_Function_Soln-Copy2.ipynb
+/andrew notebooks/Files_w3/archive/C1_W3_Lab05_Cost_Function_Soln-Copy2.ipynb
+/andrew notebooks/Files_w2/archive/.ipynb_checkpoints/C1_W3_Lab05_Cost_Function_Soln-Copy2-checkpoint.ipynb
+/andrew notebooks/Files_w3/archive/.ipynb_checkpoints/C1_W3_Lab05_Cost_Function_Soln-Copy2-checkpoint.ipynb
+/andrew notebooks/Files_w3/pre_414/C1_W3_Lab05_One_Vs_All.ipynb
+/andrew notebooks/Files_w2/.ipynb_checkpoints/C1_W3_Lab05_One_Vs_All-checkpoint.ipynb
+/andrew notebooks/Files_w3/.ipynb_checkpoints/C1_W3_Lab05_One_Vs_All-checkpoint.ipynb
+/andrew notebooks/Files_w2/.ipynb_checkpoints/C1_W3_Lab05_Scikit_Learn_Soln-checkpoint.ipynb
+/andrew notebooks/Files_w3/.ipynb_checkpoints/C1_W3_Lab05_Scikit_Learn_Soln-checkpoint.ipynb
+/andrew notebooks/Files_w2/.ipynb_checkpoints/C1_W3_Lab05_Scikit_Learn_user-checkpoint.ipynb
+/andrew notebooks/Files_w3/.ipynb_checkpoints/C1_W3_Lab05_Scikit_Learn_user-checkpoint.ipynb
+/andrew notebooks/Files_w3/C1_W3_Lab06_Gradient_Descent_Soln.ipynb
+/andrew notebooks/Files_w2/.ipynb_checkpoints/C1_W3_Lab06_Gradient_Descent_Soln-checkpoint.ipynb
+/andrew notebooks/Files_w3/.ipynb_checkpoints/C1_W3_Lab06_Gradient_Descent_Soln-checkpoint.ipynb
+/andrew notebooks/Files_w2/.ipynb_checkpoints/C1_W3_Lab06_One_Vs_All_Soln-checkpoint.ipynb
+/andrew notebooks/Files_w3/.ipynb_checkpoints/C1_W3_Lab06_One_Vs_All_Soln-checkpoint.ipynb
+/andrew notebooks/Files_w2/.ipynb_checkpoints/C1_W3_Lab06_One_Vs_All_user-checkpoint.ipynb
+/andrew notebooks/Files_w3/.ipynb_checkpoints/C1_W3_Lab06_One_Vs_All_user-checkpoint.ipynb
+/andrew notebooks/Files_w3/pre_414/C1_W3_Lab06_Regularized_Cost.ipynb
+/andrew notebooks/Files_w2/.ipynb_checkpoints/C1_W3_Lab06_Regularized_Cost-checkpoint.ipynb
+/andrew notebooks/Files_w3/.ipynb_checkpoints/C1_W3_Lab06_Regularized_Cost-checkpoint.ipynb
+/andrew notebooks/Files_w3/images/C1_W3_Lab07_overfitting.PNG
+/andrew notebooks/Files_w2/.ipynb_checkpoints/C1_W3_Lab07_Overfitting_Soln-checkpoint.ipynb
+/andrew notebooks/Files_w3/.ipynb_checkpoints/C1_W3_Lab07_Overfitting_Soln-checkpoint.ipynb
+/andrew notebooks/Files_w2/.ipynb_checkpoints/C1_W3_Lab07_Overfitting_user-checkpoint.ipynb
+/andrew notebooks/Files_w3/.ipynb_checkpoints/C1_W3_Lab07_Overfitting_user-checkpoint.ipynb
+/andrew notebooks/Files_w3/pre_414/C1_W3_Lab07_Regularized_Gradient_Descent.ipynb
+/andrew notebooks/Files_w2/.ipynb_checkpoints/C1_W3_Lab07_Regularized_Gradient_Descent-checkpoint.ipynb
+/andrew notebooks/Files_w3/.ipynb_checkpoints/C1_W3_Lab07_Regularized_Gradient_Descent-checkpoint.ipynb
+/andrew notebooks/Files_w2/C1_W3_Lab07_Scikit_Learn_Soln.ipynb
+/andrew notebooks/Files_w3/C1_W3_Lab07_Scikit_Learn_Soln.ipynb
+/andrew notebooks/Files_w2/.ipynb_checkpoints/C1_W3_Lab07_Scikit_Learn_Soln-checkpoint.ipynb
+/andrew notebooks/Files_w3/.ipynb_checkpoints/C1_W3_Lab07_Scikit_Learn_Soln-checkpoint.ipynb
+/andrew notebooks/Files_w3/C1_W3_Lab08_Overfitting_Soln.ipynb
+/andrew notebooks/Files_w2/.ipynb_checkpoints/C1_W3_Lab08_Overfitting_Soln-checkpoint.ipynb
+/andrew notebooks/Files_w3/.ipynb_checkpoints/C1_W3_Lab08_Overfitting_Soln-checkpoint.ipynb
+/andrew notebooks/Files_w2/.ipynb_checkpoints/C1_W3_Lab08_Regularized_Cost_Soln-checkpoint.ipynb
+/andrew notebooks/Files_w3/.ipynb_checkpoints/C1_W3_Lab08_Regularized_Cost_Soln-checkpoint.ipynb
+/andrew notebooks/Files_w2/.ipynb_checkpoints/C1_W3_Lab08_Regularized_Cost_user-checkpoint.ipynb
+/andrew notebooks/Files_w3/.ipynb_checkpoints/C1_W3_Lab08_Regularized_Cost_user-checkpoint.ipynb
+/andrew notebooks/Files_w3/pre_414/C1_W3_Lab08_Scikit_Learn.ipynb
+/andrew notebooks/Files_w2/.ipynb_checkpoints/C1_W3_Lab08_Scikit_Learn-checkpoint.ipynb
+/andrew notebooks/Files_w3/.ipynb_checkpoints/C1_W3_Lab08_Scikit_Learn-checkpoint.ipynb
+/andrew notebooks/Files_w3/C1_W3_Lab09_Regularization_Soln.ipynb
+/andrew notebooks/Files_w2/.ipynb_checkpoints/C1_W3_Lab09_Regularization_Soln-checkpoint.ipynb
+/andrew notebooks/Files_w3/.ipynb_checkpoints/C1_W3_Lab09_Regularization_Soln-checkpoint.ipynb
+/andrew notebooks/Files_w2/archive/C1_W3_Lab09_Regularization_Soln-Copy1.ipynb
+/andrew notebooks/Files_w3/archive/C1_W3_Lab09_Regularization_Soln-Copy1.ipynb
+/andrew notebooks/Files_w2/archive/.ipynb_checkpoints/C1_W3_Lab09_Regularization_Soln-Copy1-checkpoint.ipynb
+/andrew notebooks/Files_w3/archive/.ipynb_checkpoints/C1_W3_Lab09_Regularization_Soln-Copy1-checkpoint.ipynb
+/andrew notebooks/Files_w2/.ipynb_checkpoints/C1_W3_Lab09_Regularized_Gradient_Descent_Soln-checkpoint.ipynb
+/andrew notebooks/Files_w3/.ipynb_checkpoints/C1_W3_Lab09_Regularized_Gradient_Descent_Soln-checkpoint.ipynb
+/andrew notebooks/Files_w2/.ipynb_checkpoints/C1_W3_Lab09_Regularized_Gradient_Descent_user-checkpoint.ipynb
+/andrew notebooks/Files_w3/.ipynb_checkpoints/C1_W3_Lab09_Regularized_Gradient_Descent_user-checkpoint.ipynb
+/andrew notebooks/Files_w3/images/C1_W3_LinearCostRegularized.png
+/andrew notebooks/Files_w3/images/C1_W3_LinearGradientRegularized.png
+/andrew notebooks/Files_w3/images/C1_W3_Logistic_gradient_descent.png
+/andrew notebooks/Files_w3/final project/C1_W3_Logistic_Regression.ipynb
+/andrew notebooks/Files_w3/final project/.ipynb_checkpoints/C1_W3_Logistic_Regression-checkpoint.ipynb
+/andrew notebooks/Files_w3/final project/archive/C1_W3_Logistic_Regression-Copy1.ipynb
+/andrew notebooks/Files_w3/final project/archive/.ipynb_checkpoints/C1_W3_Logistic_Regression-Copy1-checkpoint.ipynb
+/andrew notebooks/Files_w3/final project/archive/C1_W3_Logistic_Regression-Copy2.ipynb
+/andrew notebooks/Files_w3/final project/archive/.ipynb_checkpoints/C1_W3_Logistic_Regression-Copy2-checkpoint.ipynb
+/andrew notebooks/Files_w3/images/C1_W3_LogisticCostRegularized.png
+/andrew notebooks/Files_w3/images/C1_W3_LogisticGradientRegularized.png
+/andrew notebooks/Files_w3/images/C1_W3_LogisticLoss_a.png
+/andrew notebooks/Files_w3/images/C1_W3_LogisticLoss_b.png
+/andrew notebooks/Files_w3/images/C1_W3_LogisticLoss_c.png
+/andrew notebooks/Files_w3/images/C1_W3_LogisticRegression.png
+/andrew notebooks/Files_w3/images/C1_W3_LogisticRegression_left.png
+/andrew notebooks/Files_w3/images/C1_W3_LogisticRegression_right.png
+/andrew notebooks/Files_w3/images/C1_W3_Overfitting_a.png
+/andrew notebooks/Files_w3/images/C1_W3_Overfitting_b.png
+/andrew notebooks/Files_w3/images/C1_W3_Overfitting_c.png
+/andrew notebooks/Files_w3/images/C1_W3_SqErrorVsLogistic.png
+/andrew notebooks/Files_w3/images/C1W3_boundary.PNG
+/andrew notebooks/Files_w3/images/C1W3_example2.PNG
+/andrew notebooks/Files_w3/images/C1W3_mcpredict.PNG
+/andrew notebooks/Files_w3/images/C1W3_trainvpredict.PNG
+/andrew notebooks/Files_w3/images/C1W3_XW.PNG
+/andrew notebooks/Files_w2/deeplearning.mplstyle
+/andrew notebooks/Files_w3/deeplearning.mplstyle
+/andrew notebooks/Files_w2/final project/data/ex1data1.txt
+/andrew notebooks/Files_w2/final project/data/ex1data2.txt
+/andrew notebooks/Files_w3/final project/data/ex2data1.txt
+/andrew notebooks/Files_w3/final project/data/ex2data2.txt
+/andrew notebooks/Files_w3/final project/images/figure 1.png
+/andrew notebooks/Files_w3/final project/images/figure 2.png
+/andrew notebooks/Files_w3/final project/images/figure 3.png
+/andrew notebooks/Files_w3/final project/images/figure 4.png
+/andrew notebooks/Files_w3/final project/images/figure 5.png
+/andrew notebooks/Files_w3/final project/images/figure 6.png
+/andrew notebooks/Files_w3/Files.zip
+/andrew notebooks/Files_w2/final project.zip
+/andrew notebooks/Files_w2/data/houses.txt
+/andrew notebooks/Files_w3/pre_414/lab_utils.py
+/andrew notebooks/Files_w2/lab_utils_common.py
+/andrew notebooks/Files_w3/lab_utils_common.py
+/andrew notebooks/Files_w2/lab_utils_multi.py
+/andrew notebooks/Files_w2/.ipynb_checkpoints/oldC1_W2_Lab01_Model_Representation-checkpoint.ipynb
+/andrew notebooks/Files_w2/.ipynb_checkpoints/oldC1_W2_Lab02_Cost_function-checkpoint.ipynb
+/andrew notebooks/Files_w2/.ipynb_checkpoints/oldC1_W2_Lab03_Gradient_descent-checkpoint.ipynb
+/andrew notebooks/Files_w2/.ipynb_checkpoints/oldC1_W2_Lab04_Multiple_Variable_Representation-checkpoint.ipynb
+/andrew notebooks/Files_w2/.ipynb_checkpoints/oldC1_W2_Lab05-_Multiple_Variable_Cost-checkpoint.ipynb
+/andrew notebooks/Files_w2/.ipynb_checkpoints/oldC1_W2_Lab06_Multiple_Variable_Gradient Descent-checkpoint.ipynb
+/andrew notebooks/Files_w2/.ipynb_checkpoints/oldC1_W2_Lab07_Normal_Equations-checkpoint.ipynb
+/andrew notebooks/Files_w2/.ipynb_checkpoints/oldC1_W2_Lab08_Sklearn-checkpoint.ipynb
+/andrew notebooks/Files_w2/.ipynb_checkpoints/oldW2_UGL1_Model_Representation-checkpoint.ipynb
+/andrew notebooks/Files_w2/.ipynb_checkpoints/oldW2_UGL8_Scikit_Learn-checkpoint.ipynb
+/andrew notebooks/Files_w2/plt_logistic_loss.py
+/andrew notebooks/Files_w3/plt_logistic_loss.py
+/andrew notebooks/Files_w2/plt_one_addpt_onclick.py
+/andrew notebooks/Files_w3/plt_one_addpt_onclick.py
+/andrew notebooks/Files_w3/plt_overfit.py
+/andrew notebooks/Files_w3/plt_quad_logistic.py
+/andrew notebooks/Files_w2/final project/public_tests.py
+/andrew notebooks/Files_w3/final project/public_tests.py
+/andrew notebooks/Files_w3/final project/test_utils.py
+/andrew notebooks/Files_w2/final project/utils.py
+/andrew notebooks/Files_w3/final project/utils.py
+
+*.pyc
